@@ -25,4 +25,8 @@
 설계: SpeechToText->Network->TextTranslator
 개발언어:Java
 
+TODO:
+*P2P 네트워크->서버클라이언트 네트워크
+*영상통화기능
+
 2020.04.05
