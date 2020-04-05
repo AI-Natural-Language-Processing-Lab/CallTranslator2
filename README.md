@@ -23,5 +23,6 @@
 외국어학습의 어려움을 조금이나마 해소할 수 있으리라 생각한다.
 
 설계: SpeechToText->Network->TextTranslator
+개발언어:Java
 
 2020.04.05
