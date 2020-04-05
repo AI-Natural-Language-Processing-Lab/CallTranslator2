@@ -23,10 +23,13 @@
 외국어학습의 어려움을 조금이나마 해소할 수 있으리라 생각한다.
 
 설계: SpeechToText->Network->TextTranslator
+
 개발언어:Java
 
 TODO:
+
 *P2P 네트워크->서버클라이언트 네트워크
+
 *영상통화기능
 
 2020.04.05
